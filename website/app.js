@@ -1,9 +1,9 @@
 /* Global Variables */
 const zipcodeInput = document.querySelector('#zip');
 const feelingsInput = document.querySelector('#feelings');
-const dateEntry = document.querySelector('#date-entry');
-const tempEntry = document.querySelector('#temp-entry');
-const feelEntry = document.querySelector('#content-entry')
+const dateEntry = document.querySelector('#date');
+const tempEntry = document.querySelector('#temp');
+const feelEntry = document.querySelector('#content')
 const button = document.querySelector('#generate')
 
 
