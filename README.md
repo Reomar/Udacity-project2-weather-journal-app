@@ -4,7 +4,7 @@
 This is project #2 for the egyptFWD web Professional Track, which is an asynchronous web app that uses Web API and user data to dynamically update the UI.
 
 ------------
-###How it works:
+#### How it works:
 1. `app.js` fires up when the generate button is clicked.
 2. A check is done in the input fileds to insure that there is a value.
 3. Date is generated using `getDate()`
